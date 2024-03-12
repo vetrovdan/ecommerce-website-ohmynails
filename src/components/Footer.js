@@ -53,6 +53,9 @@ function Footer() {
           </div>
         </div>
       </section>
+      <section className="signature">
+        <p>All rights reserved © Designed and maintained by Dan Vetrov 2024.</p>
+      </section>
     </div>
   );
 }
